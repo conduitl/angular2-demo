@@ -5,6 +5,7 @@ import { Subject } from 'rxjs/Subject';
 
 import { HeroSearchService } from './services/hero-search.service';
 import { Hero } from './models/hero';
+import { HeroDetailComponent } from './hero-detail.component';
 
 @Component({
     selector: 'hero-search',
