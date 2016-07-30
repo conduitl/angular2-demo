@@ -30,7 +30,7 @@ var DashboardComponent = (function () {
     DashboardComponent = __decorate([
         core_1.Component({
             selector: 'my-dashboard',
-            templateUrl: 'app/dashboard.component.html',
+            templateUrl: 'app/html/dashboard.component.html',
             styleUrls: ['app/dashboard.component.css'],
             directives: [hero_search_component_1.HeroSearchComponent]
         }), 

@@ -6,7 +6,7 @@ import { HeroSearchComponent } from './hero-search.component';
 
 @Component({
     selector: 'my-dashboard',
-    templateUrl: 'app/dashboard.component.html',
+    templateUrl: 'app/html/dashboard.component.html',
     styleUrls: ['app/dashboard.component.css'],
     directives: [HeroSearchComponent]
 })

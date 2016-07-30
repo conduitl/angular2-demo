@@ -8,7 +8,7 @@ import { Hero } from './hero';
 
 @Component({
     selector: 'hero-search',
-    templateUrl: 'app/hero-search.component.html',
+    templateUrl: 'app/html/hero-search.component.html',
     providers: [HeroSearchService]
 })
 
