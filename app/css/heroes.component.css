@@ -27,10 +27,10 @@
     background-color: #DDD;
     left: .1em;
 }
-.heroes .text {
+/*.heroes .text {
     position: relative;
     top: -3px;
-}
+}*/
 .heroes .badge {
     display: inline-block;
     font-size: small;
@@ -44,4 +44,15 @@
     height: 1.8em;
     margin-right: .8em;
     border-radius: 4px 0 0 4px;
+}
+
+.hero-element { 
+  cursor: pointer;
+  font-size: 18px;
+  padding-top: 6px;
+  padding-bottom: 12px;
+}
+
+.hero-name {
+    margin-left: 6px;
 }
