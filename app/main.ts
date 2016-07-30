@@ -2,7 +2,7 @@
 import { XHRBackend } from '@angular/http';
 
 import { InMemoryBackendService, SEED_DATA } from 'angular2-in-memory-web-api';
-import { InMemoryDataService }               from './in-memory-data.service';
+import { InMemoryDataService }               from './services/in-memory-data.service';
 
 // The usual bootstrapping imports
 
