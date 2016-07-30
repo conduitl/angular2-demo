@@ -1,7 +1,7 @@
 import { Component, EventEmitter, Input, OnInit, OnDestroy, Output } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
-import { Hero } from './hero';
+import { Hero } from './models/hero';
 import { HeroService } from './services/hero.service';
 
 @Component({

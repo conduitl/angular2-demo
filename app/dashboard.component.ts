@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Hero } from './hero';
+import { Hero } from './models/hero';
 import { HeroService } from './services/hero.service';
 import { HeroSearchComponent } from './hero-search.component';
 
