@@ -10,7 +10,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
-var hero_service_1 = require('./hero.service');
+var hero_service_1 = require('./services/hero.service');
 var hero_search_component_1 = require('./hero-search.component');
 var DashboardComponent = (function () {
     function DashboardComponent(router, heroService) {
